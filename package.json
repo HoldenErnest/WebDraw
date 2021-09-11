@@ -1,5 +1,5 @@
 {
-  "name": "map",
+  "name": "golf",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nyxtom/map.git"
+    "url": "git+https://github.com/HoldenErnest/golf.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nyxtom/map/issues"
+    "url": "https://github.com/HoldenErnest/golf/issues"
   },
-  "homepage": "https://github.com/nyxtom/map#readme",
+  "homepage": "https://github.com/HoldenErnest/golf",
   "dependencies": {
     "bluebird": "^3.7.2",
     "dotenv": "^8.2.0",
